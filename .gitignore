@@ -2,6 +2,9 @@
 # Mac System File
 .DS_Store
 
+# VSCode
+.vscode
+
 # Temporary objects and Compiled program
 *.o
 test
