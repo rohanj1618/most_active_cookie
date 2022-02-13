@@ -1,0 +1,8 @@
+
+# Mac System File
+.DS_Store
+
+# Temporary objects and Compiled program
+*.o
+test
+most_active_cookie
